@@ -1,0 +1,17 @@
+body {
+	background-color: #288194;
+}
+
+h1 {
+	color: yellow;
+	font-size: 56px;
+	font-family: futura;
+	-webkit-text-stroke-width: 2px;
+   	-webkit-text-stroke-color: yellow;
+	-webkit-text-fill-color: #288194;
+} 
+
+p {
+	color: yellow;
+	fonti-family: futura;
+}
