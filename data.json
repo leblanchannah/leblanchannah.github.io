@@ -251,164 +251,156 @@
       {
          "90s":[
             {
-               "artist":"",
+               "artist":"Air",
+               "album":"Moon Safari"
+            },
+            {
+               "artist":"American Football",
+               "album":"American Football"
+            },
+            {
+               "artist":"Beck",
+               "album":"Odelay"
+            },
+            {
+               "artist":"Belle and Sebastian",
+               "album":"If You're Feeling Sinister"
+            },
+            {
+               "artist":"Bonnie 'Prince' Billy",
+               "album":"I see a Darkness"
+            },
+            {
+               "artist":"Built to Spill",
+               "album":"Perfect From Now On"
+            },
+            {
+               "artist":"Cocteau Twins",
+               "album":"Heaven or Las Vegas"
+            },
+            {
+               "artist":"Depeche Mode",
+               "album":"Violator"
+            },
+            {
+               "artist":"The Dismemberement Plan",
+               "album":"Emergency & I"
+            },
+            {
+               "artist":"Fiona Apple",
+               "album":"When The Pawn..."
+            },
+            {
+               "artist":"The Flaming Lips",
+               "album":"The Soft Bulletin"
+            },
+            {
+               "artist":"Fugazi",
+               "album":"Repeater"
+            },
+            {
+               "artist":"Guided By Voices",
+               "album":"Bee Thousand"
+            },
+            {
+               "artist":"Jeff Buckley",
+               "album":"Grace"
+            },
+            {
+               "artist":"The Magnetic Fields",
+               "album":"69 Love Songs"
+            },
+            {
+               "artist":"Massive Attack",
+               "album":"Mezzanine"
+            },
+            {
+               "artist":"Mogwai",
+               "album":"Young Team"
+            },
+            {
+               "artist":"Nick Cave & The Bad Seeds",
+               "album":"Let Love In"
+            },
+            {
+               "artist":"Nirvana",
+               "album":"Nevermind"
+            },
+            {
+               "artist":"The Olivia Tremor Control",
+               "album":"Dusk at Cubist Castle"
+            },
+            {
+               "artist":"Pavement",
+               "album":"Slanted and Enchanted"
+            },
+            {
+               "artist":"PJ Harvey",
+               "album":"To Bring You My Love"
+            },
+            {
+               "artist":"Portishead",
+               "album":"Dummy"
+            },
+            {
+               "artist":"Pulp",
+               "album":"Different Class"
+            },
+            {
+               "artist":"Red House Painters",
+               "album":"Down Colorful Hill"
+            },
+            {
+               "artist":"Ride",
+               "album":"Nowhere"
+            },
+            {
+               "artist":"Sigur Ros",
                "album":""
             },
             {
-               "artist":"",
-               "album":""
+               "artist":"Silver Jews",
+               "album":"American Water"
             },
             {
-               "artist":"",
-               "album":""
+               "artist":"Sleater-Kinney",
+               "album":"Dig Me Out"
             },
             {
-               "artist":"",
-               "album":""
+               "artist":"Slint",
+               "album":"Spiderland"
             },
             {
-               "artist":"",
-               "album":""
+               "artist":"Slowdive",
+               "album":"Souvlaki"
             },
             {
-               "artist":"",
-               "album":""
+               "artist":"Spiritualized",
+               "album":"Ladies and Gentleman We Are Floating in Space"
             },
             {
-               "artist":"",
-               "album":""
+               "artist":"Stereolab",
+               "album":"Emperor Tomato Ketchup"
             },
             {
-               "artist":"",
-               "album":""
+               "artist":"Sunny Day Real Estate",
+               "album":"Diary"
             },
             {
-               "artist":"",
-               "album":""
+               "artist":"Swans",
+               "album":"Soundtracks for the Blind"
             },
             {
-               "artist":"",
-               "album":""
+               "artist":"Ween",
+               "album":"The Mollusk"
             },
             {
-               "artist":"",
-               "album":""
+               "artist":"Weezer",
+               "album":"Weezer (Blue Album)"
             },
             {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
-            },
-            {
-               "artist":"",
-               "album":""
+               "artist":"Yo La Tengo",
+               "album":"I can Hear the Heart Beating as One"
             }
          ]
       },
