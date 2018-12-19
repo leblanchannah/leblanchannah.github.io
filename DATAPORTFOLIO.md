@@ -20,7 +20,7 @@ Dechow, Patricia M. and Ge, Weili and Larson, Chad Russell and Sloan, Richard G.
   
   
 ### Natural Language Processing
-- LCD Soundsystem lyric mining
+- LCD Soundsystem lyric mining using Python and Genius API
 
 
 
