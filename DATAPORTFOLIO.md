@@ -1,9 +1,9 @@
-# Data Science Portfolio
 
 
+### Data Science Portfolio
 
 
-### Exploratory Data Analysis
+#### Exploratory Data Analysis
 Mostly work from graduate level courses CISC873 Data Mining (Fall 2018) and CISC*** Deep Learning (Winter 2019).
 In CISC873, I was assigned support vector machines and stacked denoising autoencoders to work with for the entire semester.
 
@@ -33,7 +33,7 @@ Dechow, Patricia M. and Ge, Weili and Larson, Chad Russell and Sloan, Richard G.
   
   
   
-### Natural Language Processing
+#### Natural Language Processing
 - LCD Soundsystem lyric mining using Python and Genius API ⚡️
 
 
