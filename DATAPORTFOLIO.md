@@ -1,6 +1,6 @@
 
 
-### Data Science Portfolio
+Data Science Portfolio
 
 
 #### Exploratory Data Analysis
