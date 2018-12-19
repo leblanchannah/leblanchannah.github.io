@@ -9,6 +9,8 @@ My thesis topic is toxic language detection and my research focuses on
 - Natural language processing
 - Deep learning
 
+I mostly use Python and Matlab for my research. 
+
 When I graduate in 2019 I want to be a data scientist!
 
 Current side projects
