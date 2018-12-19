@@ -11,7 +11,7 @@ Exploratory Data Analysis
 - Fraud Detection
   - imbalanced classes with a lot of missing data (missing values ends up being important)
   - dataset from
-Dechow, Patricia M. and Ge, Weili and Larson, Chad Russell and Sloan, Richard G.,[Predicting Material Accounting Misstatements] (April 21, 2010). Contemporary Accounting Research, Forthcoming; AAA 2008 Financial Accounting and Reporting Section (FARS) Paper.(https://www.thecaq.org/sites/default/files/DECHOW_et_al-2011-Contemporary_Accounting_Research.pdf)
+Dechow, Patricia M. and Ge, Weili and Larson, Chad Russell and Sloan, Richard G.,[Predicting Material Accounting Misstatements](https://www.thecaq.org/sites/default/files/DECHOW_et_al-2011-Contemporary_Accounting_Research.pdf) (April 21, Paper.2010). Contemporary Accounting Research, Forthcoming; AAA 2008 Financial Accounting and Reporting Section (FARS) 
 
 
 
