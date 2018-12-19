@@ -1,4 +1,4 @@
-#Data Science Portfolio
+# Data Science Portfolio
 
 
 
@@ -14,12 +14,14 @@ In CISC873, I was assigned support vector machines and stacked denoising autoenc
 
   - summary 
   
+  
 - California Crime Rates 👮‍♀️
   - messy and lots of missing data
   - given this dataset by prof
   - regression but as a class decided to make it classification
   
   - summary 
+  
   
 - Fraud Detection 🕵️‍♂️
   - imbalanced classes with a lot of missing data (missing values ends up being important)
@@ -28,6 +30,7 @@ Dechow, Patricia M. and Ge, Weili and Larson, Chad Russell and Sloan, Richard G.
   - classification
   
   - summary 
+  
   
   
 ### Natural Language Processing
