@@ -19,7 +19,7 @@ Current side projects
 
 At school, I am the Academics Director at [Queen's Women in Computing](https://www.facebook.com/QueensWIC/). I create and organize tutorials for students within and outside Computing. 
 
-Data Science Portfolio (still working on this 🥳) 
+[Data Science Portfolio](DATAPORTFOLIO.md) (still working on this 🥳) 
 
 [LinkedIn](https://www.linkedin.com/in/hannah-leblanc/)
 
