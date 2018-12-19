@@ -7,8 +7,5 @@ My thesis topic is toxic language detection and my research focuses on
 - Natural language processing
 - Deep learning
 
-When I graduate in 2019 I want to be a data scientist and I am currently adding my data science project portfolio to my Github...
+When I graduate in 2019 I want to be a data scientist!
 
-
-
-[Link](url) and ![Image](src)
