@@ -17,7 +17,7 @@ Current side projects
 - analyzing song lyrics with NLP
 - Quora Insincere Questions Classification Competition on [Kaggle](https://www.kaggle.com/c/quora-insincere-questions-classification)
 
-At school, I am the Academics Director at [Queen's Women in Computing](https://www.facebook.com/QueensWIC/). I create and organize tutorials for students within and outside Computing. 
+At school, I am the Academics Director at [Queen's Women in Computing](https://www.facebook.com/QueensWIC/). I create and organize tutorials for students within and outside Computing. I am a CFRC 101.9fm volunteer 📻.
 
 [Data Science Portfolio](DATAPORTFOLIO.md) (still working on this 🥳) 
 
