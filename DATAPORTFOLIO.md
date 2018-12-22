@@ -33,8 +33,8 @@ Dechow, Patricia M. and Ge, Weili and Larson, Chad Russell and Sloan, Richard G.
 
   
 #### Natural Language Processing
-- LCD Soundbook
-  - LCD Soundsystem lyric mining using Python, Genius API and Keras LSTM to generate lyrics ⚡️
+- LCD Soundbook ⚡️
+  - LCD Soundsystem lyric mining using Python, Genius API and Keras LSTM to generate lyrics 
   - first iteration [Jupyter notebook](https://github.com/leblanchannah/leblanchannah.github.io/blob/master/lcdsoundbook.ipynb)
   
  - Pitchfork Review Summarizer (upcoming) 🎸
