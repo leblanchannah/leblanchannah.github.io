@@ -13,6 +13,7 @@ In CISC873, I was assigned support vector machines and stacked denoising autoenc
   - dataset already clean
   - data comes from IBM and can be found on [kaggle](https://www.kaggle.com/blastchar/telco-customer-churn/kernels)
   - classification
+  - [Jupyter notebook](https://github.com/leblanchannah/DataMining873/blob/master/873groupAset1churn/churn.ipynb)
   
   
 - California Crime Rates 👮‍♀️
