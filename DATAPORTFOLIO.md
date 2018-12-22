@@ -20,6 +20,7 @@ In CISC873, I was assigned support vector machines and stacked denoising autoenc
   - messy and lots of missing data
   - given this dataset by prof
   - regression but as a class decided to make it classification
+  - [GitHub Repo](https://github.com/leblanchannah/DataMining873/tree/master/873groupAset2crime)
   
   
 - Fraud Detection 🕵️‍♂️
@@ -27,6 +28,7 @@ In CISC873, I was assigned support vector machines and stacked denoising autoenc
   - dataset from
 Dechow, Patricia M. and Ge, Weili and Larson, Chad Russell and Sloan, Richard G.,[Predicting Material Accounting Misstatements](https://www.thecaq.org/sites/default/files/DECHOW_et_al-2011-Contemporary_Accounting_Research.pdf) (April 21, Paper.2010). Contemporary Accounting Research, Forthcoming; AAA 2008 Financial Accounting and Reporting Section (FARS) 
   - classification
+  - [GitHub Repo](https://github.com/leblanchannah/Fraud-Detection-SdA)
  
 
   
