@@ -49,9 +49,9 @@ Dechow, Patricia M. and Ge, Weili and Larson, Chad Russell and Sloan, Richard G.
     
 #### Deep Learning
 - Course assignment 1 
-  - implementing a single hidden layer neural network using only NumPy and Python to learn the XOR function.
-  - Outlines partial derivative for 2nd hidden layer.
-  - Explores increasing weights to large numbers and saturation of sigmoid function.
+  - Implementing a single hidden layer neural network using only NumPy and Python to learn the XOR function
+  - Outlines partial derivative for 2nd hidden layer
+  - Explores increasing weights to large numbers and saturation of sigmoid function
   - [Jupyter notebook](https://github.com/leblanchannah/XOR-neural-network/blob/master/HannahLeBlanc.ipynb)
   
 
