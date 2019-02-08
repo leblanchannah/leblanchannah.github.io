@@ -7,7 +7,7 @@
 
 #### Exploratory Data Analysis
 Mostly work from graduate level courses CISC873 Data Mining (Fall 2018) and CISC867 Deep Learning (Winter 2019).
-In CISC873, I was assigned support vector machines and stacked denoising autoencoders to work with for the entire semester.
+In CISC873, I focused on using support vector machines and stacked denoising autoencoders to work with for the semester.
 
 - Telecom Company Churn Predictions 📞
   - dataset already clean
