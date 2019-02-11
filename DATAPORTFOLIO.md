@@ -51,7 +51,7 @@ Dechow, Patricia M. and Ge, Weili and Larson, Chad Russell and Sloan, Richard G.
   
 
  
- - Pitchfork Review Summarizer ([upcoming](https://github.com/leblanchannah/pitchfork-summary)) 🎸
+ - Pitchfork Review Summarizer ([in progress](https://github.com/leblanchannah/pitchfork-summary)) 🎸
     - So far I have used the Pitchfork Python API to download all album reviews and I have stored them in the repo. In the future I want to explore extractive summarization techniques with deep learning with the reviews. I also want to predict review score based on full review and generated summary features. 
     
 #### Deep Learning
@@ -60,6 +60,10 @@ Dechow, Patricia M. and Ge, Weili and Larson, Chad Russell and Sloan, Richard G.
   - Outlines partial derivative for 2nd hidden layer
   - Explores increasing weights to large numbers and saturation of sigmoid function
   - [Jupyter notebook](https://github.com/leblanchannah/XOR-neural-network/blob/master/HannahLeBlanc.ipynb)
+  
+- Course assignment 2 (in progress)
+  - Implementing single hidden layer neural network for classification using negative log likelihood
+  - Training model on the MNIST dataset
   
 
 
